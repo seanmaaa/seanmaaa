@@ -1,4 +1,7 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseanmaaa&count_bg=%23039BE5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Visit](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseanmaaa&count_bg=%23039BE5&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+<img src="https://img.shields.io/github/followers/seanmaaa?style=social">
+<img src="https://img.shields.io/github/stars/seanmaaa?style=social">
+
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/seunghyeon-ma/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white)](mailto:kr.seunghyeon@gmail.com)
 [![Github.io Badge](https://img.shields.io/badge/Algorithm%20Blog-546E7A?style=flat&logoColor=white)](https://seanmaaa.github.io/)
@@ -6,7 +9,7 @@
 
 ## Hi there! I'm Seunghyeon Ma (Sean Ma) 👋🏻
 
-Glad to meet you here! I'm Seunghyeon Ma (or Sean Ma), currently working as a **Backend Developer**.
+Glad to meet you here! I'm Seunghyeon Ma (Sean Ma), currently working as a **Backend Developer**.
 
 I'm from South Korea, living in Seongnam-si.
 
@@ -14,9 +17,12 @@ I'm from South Korea, living in Seongnam-si.
  - Full professional proficiency 🇬🇧
  - Compétence élémentaire 🇫🇷
 
-## Skills what I have
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanmaaa&layout=compact" height="160">
+<img src="https://github-readme-stats.vercel.app/api?username=seanmaaa&show_icons=true" height="160">
+</p>
 
-<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=seanmaaa&layout=compact" height="165">
+## Skills what I have
 
 ### Languages & Frameworks
 
@@ -58,14 +64,12 @@ I'm from South Korea, living in Seongnam-si.
 
 ## Experience
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=seanmaaa&show_icons=true" height="165">
-
 - 🎓 Yeungnam University (2014.03 ~ 2020.02)  
-Information & Communication Engineering
+Bachelor's degree: Information & Communication Engineering
 - 🇳🇱 Fontys University of Applied Science (2018.08 ~ 2019.06)  
 Software Engineering course (Exchange) 
 - 🧑🏻‍💻 Uangel corp. (2020.03 ~ )  
-Iot Server Backend Engineer - Scala & Java
+Iot Server Backend Engineer (Scala & Java)
 
 
 <!--
