@@ -22,44 +22,22 @@ I'm from South Korea, living in Seongnam-si.
 <img src="https://github-readme-stats.vercel.app/api?username=seanmaaa&show_icons=true" height="160">
 </p>
 
-## Skills what I have
+## Skills 💪🏻
 
-### Languages & Frameworks
-
+Confidence with :
 <p>
 <img src="https://img.shields.io/badge/Scala-DC322F?style=flat-square&logo=Scala&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
-</p>
-
-<p>
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Play%20Framework-A1CF56?style=flat-square&logoColor=white"/>
 <img src="https://img.shields.io/badge/Akka-4A9EC2?style=flat-square&logoColor=white"/>
 </p>
 
-### Database & OS
-
+I'm currently studying :
 <p>
-<img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=flat-square&logo=Timescale&logoColor=white"/>
-<img src="https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=flat-square&logo=Apache%20Cassandra&logoColor=white"/>
-</p>
-
-<p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
-</p>
-
-### Tools
-
-<p>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </p>
 
 ## Experience
