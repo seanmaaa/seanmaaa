@@ -42,11 +42,11 @@ I'm currently studying :
 
 ## Experience
 
-- 🎓 Yeungnam University (2014.03 ~ 2020.02)  
+- 🎓 Yeungnam University (2014.03. ~ 2020.02.)  
 Bachelor's degree: Information & Communication Engineering
-- 🇳🇱 Fontys University of Applied Science (2018.08 ~ 2019.06)  
+- 🇳🇱 Fontys University of Applied Science (2018.08. ~ 2019.06.)  
 Software Engineering course (Exchange) 
-- 🧑🏻‍💻 Uangel corp. (2020.03 ~ )  
+- 🧑🏻‍💻 Uangel corp. (2020.03. ~ 2021.11.)  
 Iot Server Backend Engineer (Scala & Java)
 
 
