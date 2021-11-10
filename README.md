@@ -48,7 +48,8 @@ Bachelor's degree: Information & Communication Engineering
 Software Engineering course (Exchange) 
 - 🧑🏻‍💻 Uangel corp. (2020.03. ~ 2021.11.)  
 Iot Server Backend Engineer (Scala & Java)
-
+- 🧑🏻‍💻 KakaoBank (2021.11. ~ )  
+Server Engineer
 
 <!--
 **seanmaaa/seanmaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
